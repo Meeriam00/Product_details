@@ -27,6 +27,8 @@ const Home = () => {
       <input type="text" name="from_name"  placeholder="Your Name" required/>
       <input type="email" name="from_email" placeholder="Your Email" required />
       <textarea name="message" placeholder="Your Message" required />
+      <h1>Salam</h1>
+
       <button type="submit">Send</button>
     </form>
     </>
